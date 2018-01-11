@@ -11,7 +11,7 @@ DevCash is cash for the developer economy
 
 The smart contract code can be viewed here: https://github.com/BlockchainDevelopersUnited/DevCash-ERC20
 
-For more info about DevCash, visit https://u.cash
+For more info about DevCash, visit https://devcash.xyz
 .*/
 
 pragma solidity ^0.4.8;
