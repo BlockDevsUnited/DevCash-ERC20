@@ -63,6 +63,9 @@ contract DevCash is EIP20Interface {
     uint8 public decimals;
     string public symbol;
 
+    mapping (address => uint256) balances;
+    mapping (address => mapping (address => uint256)) allowed;
+
      function DevCash(
 
         ) public {
@@ -108,6 +111,4 @@ contract DevCash is EIP20Interface {
       return allowed[_owner][_spender];
     }
 
-    mapping (address => uint256) balances;
-    mapping (address => mapping (address => uint256)) allowed;
 }
