@@ -2,6 +2,8 @@
 
 This is the repo for the DevCash Token Contract.
 
+Contract address: 0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a
+
 ### What's DevCash?
 
 DevCash is cash for the developer economy.
