@@ -6,7 +6,7 @@ This is the repo for the DevCash Token Contract.
 
 DevCash is cash for the developer economy.
 
-DevCash is an ERC20 token (https://github.com/ethereum/EIPs/issues/20) in the Ethereum network. It can be transferred to and fro Ethereum addresses at any time.
+DevCash is an ERC20 token (https://github.com/ethereum/EIPs/issues/20) in the Ethereum network. It can be transferred to and from Ethereum addresses at any time.
 
 Devcash is intended to incentivize proper Blockchain developer training, grant access to developer resources, and act a medium of exchange in the developer marketplace.
 
